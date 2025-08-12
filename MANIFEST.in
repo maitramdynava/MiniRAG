@@ -1,3 +1,4 @@
 include README.md
 include requirements.txt
 include minirag/api/requirements.txt" > MANIFEST.in
+recursive-include minirag/api/static *
