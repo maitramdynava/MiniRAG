@@ -44,5 +44,6 @@ dependencies=[
     "pydantic",
     "rouge",
     "setuptools",
-    "xxhash"
+    "xxhash",
+    "sentence_transformers"
 ]
