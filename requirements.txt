@@ -1,4 +1,4 @@
-accelerate
+# accelerate
 aiofiles
 aiohttp
 configparser
