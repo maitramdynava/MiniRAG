@@ -36,7 +36,6 @@ dependencies=[
     "aiofiles",
     "aiohttp",
     "configparser",
-    "graspologic",
     "httpx",
     "networkx",
     "nltk",
