@@ -29,7 +29,6 @@ dependencies=[
     "python-multipart",
     "tenacity",
     "tiktoken",
-    "torch",
     "tqdm",
     "uvicorn",
     "json_repair",
