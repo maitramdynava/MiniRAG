@@ -42,5 +42,4 @@ dependencies=[
     "rouge",
     "setuptools",
     "xxhash",
-    "sentence_transformers"
 ]
